@@ -1,4 +1,5 @@
 nginx
+ghcr.io/spack/centos7:develop
 ghcr.io/spack/tutorial:sc23
 ghcr.io/spack/tutorial:hpcic24
 ghcr.io/spack/tutorial:latest
